@@ -12,4 +12,6 @@ function Results ({ results, openPopup }) {
 	)
 }
 
+//   const apiurl = "http://www.omdbapi.com/?i=tt3896198&apikey=65aceb7d";
+
 export default Results
